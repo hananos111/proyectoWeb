@@ -1,6 +1,6 @@
 public class Coche extends Vehiculo
 {
-    private int puertas;
+    private int puertas;1234
 
     public Coche(int p)
     {
